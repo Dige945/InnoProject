@@ -2,7 +2,7 @@
 .\obj\main.o: .\Public\system.h
 .\obj\main.o: .\User\stm32f10x.h
 .\obj\main.o: .\Libraries\CMSIS\core_cm3.h
-.\obj\main.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\main.o: D:\app\SummerLearning\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\obj\main.o: .\Libraries\CMSIS\system_stm32f10x.h
 .\obj\main.o: .\User\stm32f10x_conf.h
 .\obj\main.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
@@ -40,9 +40,12 @@
 .\obj\main.o: User\../APP/hc05/hc05.h
 .\obj\main.o: User\../APP/hwjs/hwjs.h
 .\obj\main.o: User\../APP/pwm/pwm.h
+.\obj\main.o: User\../APP/ws2812/ws2812.h
+.\obj\main.o: User\../APP/ws2812/rgb_display.h
 .\obj\main.o: .\Public\usart.h
-.\obj\main.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\main.o: D:\app\SummerLearning\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
 .\obj\main.o: .\APP\usart3\usart3.h
-.\obj\main.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\main.o: D:\app\SummerLearning\Keil5\ARM\ARMCC\Bin\..\include\string.h
 .\obj\main.o: .\APP\led\led.h
-.\obj\main.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\main.o: D:\app\SummerLearning\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\main.o: D:\app\SummerLearning\Keil5\ARM\ARMCC\Bin\..\include\math.h

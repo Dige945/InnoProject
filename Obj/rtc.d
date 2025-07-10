@@ -3,7 +3,7 @@
 .\obj\rtc.o: .\Public\system.h
 .\obj\rtc.o: .\User\stm32f10x.h
 .\obj\rtc.o: .\Libraries\CMSIS\core_cm3.h
-.\obj\rtc.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\rtc.o: D:\app\SummerLearning\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\obj\rtc.o: .\Libraries\CMSIS\system_stm32f10x.h
 .\obj\rtc.o: .\User\stm32f10x_conf.h
 .\obj\rtc.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
@@ -32,4 +32,4 @@
 .\obj\rtc.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
 .\obj\rtc.o: .\Public\SysTick.h
 .\obj\rtc.o: .\Public\usart.h
-.\obj\rtc.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\rtc.o: D:\app\SummerLearning\Keil5\ARM\ARMCC\Bin\..\include\stdio.h

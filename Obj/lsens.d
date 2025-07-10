@@ -3,7 +3,7 @@
 .\obj\lsens.o: .\Public\system.h
 .\obj\lsens.o: .\User\stm32f10x.h
 .\obj\lsens.o: .\Libraries\CMSIS\core_cm3.h
-.\obj\lsens.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\lsens.o: D:\app\SummerLearning\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\obj\lsens.o: .\Libraries\CMSIS\system_stm32f10x.h
 .\obj\lsens.o: .\User\stm32f10x_conf.h
 .\obj\lsens.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h

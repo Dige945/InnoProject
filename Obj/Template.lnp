@@ -30,6 +30,7 @@
 ".\obj\led.o"
 ".\obj\lsens.o"
 ".\obj\tftlcd.o"
+".\obj\bk_image.o"
 ".\obj\oled.o"
 ".\obj\beep.o"
 ".\obj\dht11.o"
@@ -42,10 +43,11 @@
 ".\obj\usart3.o"
 ".\obj\time.o"
 ".\obj\music.o"
+".\obj\rgb_display.o"
 ".\obj\system.o"
 ".\obj\systick.o"
 ".\obj\usart.o"
 --library_type=microlib --strict --scatter ".\Obj\Template.sct"
---summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers
 --list ".\Obj\Template.map" -o .\Obj\Template.axf

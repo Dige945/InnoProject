@@ -3,7 +3,7 @@
 .\obj\usart3.o: .\Public\system.h
 .\obj\usart3.o: .\User\stm32f10x.h
 .\obj\usart3.o: .\Libraries\CMSIS\core_cm3.h
-.\obj\usart3.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\usart3.o: D:\app\SummerLearning\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\obj\usart3.o: .\Libraries\CMSIS\system_stm32f10x.h
 .\obj\usart3.o: .\User\stm32f10x_conf.h
 .\obj\usart3.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
@@ -31,7 +31,7 @@
 .\obj\usart3.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
 .\obj\usart3.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
 .\obj\usart3.o: .\Public\SysTick.h
-.\obj\usart3.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
-.\obj\usart3.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-.\obj\usart3.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\usart3.o: D:\app\SummerLearning\Keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\obj\usart3.o: D:\app\SummerLearning\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\usart3.o: D:\app\SummerLearning\Keil5\ARM\ARMCC\Bin\..\include\string.h
 .\obj\usart3.o: .\APP\time\time.h

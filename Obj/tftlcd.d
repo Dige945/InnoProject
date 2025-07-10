@@ -3,7 +3,7 @@
 .\obj\tftlcd.o: .\Public\system.h
 .\obj\tftlcd.o: .\User\stm32f10x.h
 .\obj\tftlcd.o: .\Libraries\CMSIS\core_cm3.h
-.\obj\tftlcd.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\tftlcd.o: D:\app\SummerLearning\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\obj\tftlcd.o: .\Libraries\CMSIS\system_stm32f10x.h
 .\obj\tftlcd.o: .\User\stm32f10x_conf.h
 .\obj\tftlcd.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
@@ -30,8 +30,8 @@
 .\obj\tftlcd.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
 .\obj\tftlcd.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
 .\obj\tftlcd.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
-.\obj\tftlcd.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\tftlcd.o: D:\app\SummerLearning\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\obj\tftlcd.o: APP\tftlcd\font.h
 .\obj\tftlcd.o: .\Public\usart.h
-.\obj\tftlcd.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\tftlcd.o: D:\app\SummerLearning\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
 .\obj\tftlcd.o: .\Public\SysTick.h

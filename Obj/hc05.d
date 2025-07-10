@@ -3,7 +3,7 @@
 .\obj\hc05.o: .\Public\system.h
 .\obj\hc05.o: .\User\stm32f10x.h
 .\obj\hc05.o: .\Libraries\CMSIS\core_cm3.h
-.\obj\hc05.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\hc05.o: D:\app\SummerLearning\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\obj\hc05.o: .\Libraries\CMSIS\system_stm32f10x.h
 .\obj\hc05.o: .\User\stm32f10x_conf.h
 .\obj\hc05.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
@@ -31,9 +31,9 @@
 .\obj\hc05.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
 .\obj\hc05.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
 .\obj\hc05.o: .\Public\usart.h
-.\obj\hc05.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\hc05.o: D:\app\SummerLearning\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
 .\obj\hc05.o: .\APP\usart3\usart3.h
 .\obj\hc05.o: APP\hc05\hc05.h
 .\obj\hc05.o: .\APP\led\led.h
-.\obj\hc05.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\string.h
-.\obj\hc05.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\obj\hc05.o: D:\app\SummerLearning\Keil5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\hc05.o: D:\app\SummerLearning\Keil5\ARM\ARMCC\Bin\..\include\math.h

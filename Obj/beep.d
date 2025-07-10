@@ -3,7 +3,7 @@
 .\obj\beep.o: .\Public\system.h
 .\obj\beep.o: .\User\stm32f10x.h
 .\obj\beep.o: .\Libraries\CMSIS\core_cm3.h
-.\obj\beep.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\beep.o: D:\app\SummerLearning\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\obj\beep.o: .\Libraries\CMSIS\system_stm32f10x.h
 .\obj\beep.o: .\User\stm32f10x_conf.h
 .\obj\beep.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h

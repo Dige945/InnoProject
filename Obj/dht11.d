@@ -3,7 +3,7 @@
 .\obj\dht11.o: .\Public\system.h
 .\obj\dht11.o: .\User\stm32f10x.h
 .\obj\dht11.o: .\Libraries\CMSIS\core_cm3.h
-.\obj\dht11.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\dht11.o: D:\app\SummerLearning\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\obj\dht11.o: .\Libraries\CMSIS\system_stm32f10x.h
 .\obj\dht11.o: .\User\stm32f10x_conf.h
 .\obj\dht11.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h

@@ -3,7 +3,7 @@
 .\obj\music.o: .\Public\system.h
 .\obj\music.o: .\User\stm32f10x.h
 .\obj\music.o: .\Libraries\CMSIS\core_cm3.h
-.\obj\music.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\music.o: D:\app\SummerLearning\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\obj\music.o: .\Libraries\CMSIS\system_stm32f10x.h
 .\obj\music.o: .\User\stm32f10x_conf.h
 .\obj\music.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h

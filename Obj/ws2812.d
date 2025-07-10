@@ -3,7 +3,7 @@
 .\obj\ws2812.o: .\Public\system.h
 .\obj\ws2812.o: .\User\stm32f10x.h
 .\obj\ws2812.o: .\Libraries\CMSIS\core_cm3.h
-.\obj\ws2812.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\ws2812.o: D:\app\SummerLearning\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\obj\ws2812.o: .\Libraries\CMSIS\system_stm32f10x.h
 .\obj\ws2812.o: .\User\stm32f10x_conf.h
 .\obj\ws2812.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
